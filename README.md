@@ -1,7 +1,7 @@
-# 🚀 Delamaison
+# 🏡 Delamaison
 
 <div style="text-align: center;">
-    <img src="images/01.png" alt="Vista principal" width="1000">
+    <img src="images/01.jpg" alt="Vista principal" width="400">
 </div>
 
 Es una plataforma web responsiva desarrollada con HTML, CSS, JavaScript, PHP, y una base de datos relacional MySQL. Diseñada específicamente para el mercado colombiano, permite a los propietarios publicar anuncios de propiedades en alquiler y a los interesados consultar opciones disponibles, todo desde la comodidad de sus dispositivos.
@@ -63,9 +63,8 @@ El propósito principal de Delamaison es facilitar el acceso a opciones de alqui
 ## 📷 Capturas de Pantalla
 
 <div style="text-align: center;">
-    <img src="images/01.png" alt="Vista principal" width="400">
-    <img src="images/02.png" alt="Detalles de la propiedad" width="400">
-    <img src="images/03.png" alt="Formulario de publicación" width="400">
+    <img src="images/02.jpg" alt="Detalles de la propiedad" width="400">
+    <img src="images/03.jpg" alt="Formulario de publicación" width="400">
 </div>
 
 ## 💡 Funcionalidades Futuras
